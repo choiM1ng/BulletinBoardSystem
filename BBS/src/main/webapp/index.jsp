@@ -7,6 +7,8 @@
 <title>Hello World!</title>
 </head>
 <body>
-Hello World!
+	<script>
+		location.href = 'login.jsp';
+	</script>
 </body>
 </html>
